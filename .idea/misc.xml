@@ -3,12 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/activity_connection.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/activity_connection2.xml" value="0.32518115942028986" />
         <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/activity_first_page.xml" value="0.25" />
         <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
-        <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/device_adapter_view.xml" value="0.32518115942028986" />
         <entry key="..\:/Users/olabu/Downloads/ChessGameProject2/app/src/main/res/layout/highscore_view.xml" value="0.25" />
       </map>
     </option>
