@@ -38,4 +38,9 @@ public class MenuActivity extends AppCompatActivity {
         Intent switchActivityIntent = new Intent(this, ScoreBoardActivity.class);
         startActivity(switchActivityIntent);
     }
+    public void changeViewToConnection(View V){// przelaczanie sie do listy dostepnych urzadzen bluetooth
+
+        Intent switchActivityIntent = new Intent(this, ConnectionActivity.class);
+        startActivity(switchActivityIntent);
+    }
 }
